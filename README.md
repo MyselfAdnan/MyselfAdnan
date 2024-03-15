@@ -48,7 +48,7 @@
   </div>
 
   <div id="warning">
-    <span class="english">WARNING: CONTAINS FLASHING IMAGES</span><br/>
+    
     <span class="chinese">&#21253;&#21547;&#38378;&#28865;&#30340;&#22270;&#20687;</span>
   </div>
 
