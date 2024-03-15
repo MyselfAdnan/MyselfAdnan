@@ -58,7 +58,7 @@
   </div>
 
   <div id="embed">
-    <textarea id="embed-text">&lt;iframe src=&quot;http://www.staggeringbeauty.com/&quot; style=&quot;border: 1px inset #ddd&quot; width=&quot;498&quot; height=&quot;598&quot;&gt;&lt;/iframe&gt;</textarea>
+    <textarea id="embed-text">&lt;iframe src=&quot; style=&quot;border: 1px inset #ddd&quot; width=&quot;498&quot; height=&quot;598&quot;&gt;&lt;/iframe&gt;</textarea>
   </div>
 <script type="text/javascript">
 
