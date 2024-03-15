@@ -53,7 +53,7 @@
   </div>
 
   <div id="enquiries">
-    <a target="_top" href="mailto:enquiries@staggeringbeauty.com">Enquiries</a>
+    <a target="_top" href="mailto:enquirie>Enquiries</a>
     <a id="embed-button" href="#">Embed</a>
   </div>
 
