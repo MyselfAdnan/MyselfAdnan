@@ -1,1 +1,1 @@
-HEllo this is Adnan Ahmed from Sylhet Khajanchibari International School and College
+Hello this is Adnan Ahmed, This is the updated account you guys were looking for, Sorry for losing the 2018 Git account and all the codes along with that. Btw I finished my college from Sylhet Khajanchibari International School and College, head over to my youtube channel and comment down any problems you might be facing related to CSS, BOOTSTRAP, JAVA AND RUBY or anything. my youtube channel is @itisAdnanAhmed
